@@ -1,9 +1,9 @@
 # ukui-system-monitor
 UKUI System Monitor allows you to graphically view and manipulate the
-running processes, It also provides an overview of the resources
+running processes. It also provides an overview of the resources
 (such as CPU and memory) and File Systems on your system.
 
-## Build
+## How to Build
 ./autogen.sh
 make 
 sudo make install
